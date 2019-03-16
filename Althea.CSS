@@ -1,0 +1,21 @@
+
+
+
+.nav-link {
+    fontweight: lighter;
+}
+.nav-link:hover {
+    font-weight: bold; 
+    background-color: #ffb3b3;
+}
+
+header{ 
+    height: 600px;
+    width: 100%;
+    background-image: url("girlreading.jpg");
+    background-size: cover;
+    text-align: center; 
+    font-family: "Acme", cursive;
+
+}
+
