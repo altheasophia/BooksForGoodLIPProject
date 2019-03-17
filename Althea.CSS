@@ -1,8 +1,10 @@
 
-
+.body{
+    color: black;
+}
 
 .nav-link {
-    fontweight: lighter;
+    font-weight: lighter;
 }
 .nav-link:hover {
     font-weight: bold; 
@@ -26,6 +28,7 @@ header{
    margin-top:50px;
     width:100%;
     margin-bottom: 50px;
+    background-color: #f4c842;
 }
 
 .getinvolved i{
