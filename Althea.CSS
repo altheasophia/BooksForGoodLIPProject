@@ -63,3 +63,15 @@ header{
   padding: 10px 10px;
 
 }
+
+.results{
+    font-family: "Acme", cursive;
+    text-align: center;
+   
+}
+
+.results img{
+    padding: 10px 10px;
+}
+
+}
