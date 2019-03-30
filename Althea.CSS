@@ -37,6 +37,7 @@ header{
     font-size: 45px;
     margin-top: 15px;
     margin-bottom: 15px;
+    color: black
 }
 
 .options{
@@ -48,3 +49,17 @@ header{
     margin-top: 30px
 }
 
+.services{
+    font-family: "Acme", cursive;
+    text-align: center;
+   margin-top: 30px
+
+  
+}
+
+
+.services img {
+  border-radius: 50%;
+  padding: 10px 10px;
+
+}
