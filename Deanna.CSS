@@ -1,0 +1,61 @@
+.nav-link {
+    font-weight: lighter;
+}
+.nav-link:hover {
+    font-weight: bold; 
+    background-color: #ffb3b3;
+}
+
+header{ 
+    height: 600px;
+    width: 100%;
+    background-image: url("treereading.jpg");
+    background-size: cover;
+    text-align: center; 
+    font-family: "Acme", cursive;
+
+}
+
+.contact .btn{
+    border-radius: 0;
+    width: 100%;
+    font-size: 15px
+    background-color: #f08080;
+    color: #fff
+}
+
+
+
+.contact{
+    font-family: "Acme", cursive;
+    text-align:center;
+margin-top: 10px ;
+margin-bottom: 100px;
+}
+
+
+
+
+.contact .btn{
+    Width: 100% ;
+    font-size: 15px;
+    border-radius: 0;
+}
+
+.contact .input-group{
+    margin-bottom: 25px; 
+    
+}
+
+
+.contact.btn:hover{
+    background-color: #a85959 !important;
+    color: #fff !important;
+} 
+
+.container-fluid{ 
+    background-color: #202020;
+    font-family: "Acme", cursive;
+    
+}
+

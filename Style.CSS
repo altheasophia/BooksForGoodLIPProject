@@ -24,10 +24,10 @@ header{
 .getinvolved{ 
     text-align: center;
     font-family: "Acme", cursive;
-   padding: 50px, 0, 80px;
+   padding: 50px, 10px, 80px;
    margin-top:50px;
     width:100%;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     background-color: #f4c842;
 }
 
@@ -37,7 +37,7 @@ header{
     font-size: 45px;
     margin-top: 15px;
     margin-bottom: 15px;
-    color: black
+    color: #055c7f;
 }
 
 .options{
@@ -47,6 +47,7 @@ header{
     border: 1px solid #ccc;
     border-radius: 5px;
     margin-top: 30px
+    margin-bottom: 30px;
 }
 
 .services{
@@ -100,13 +101,32 @@ header{
 }
 
 
-div.polaroid {
+
+.partners{ 
+    text-align: center;
     font-family: "Acme", cursive;
-  width: 80%;
-  background-color: white;
-  margin-bottom: 25px;
-  text-align: center;
-   padding: 10px 10px;
-   margin-top: 25px;
+    padding: 50px, 0, 80px;
+    margin-top: 10px;
+    width:100%;
+    margin-bottom: 50px;
 }
-  
+
+
+
+
+
+
+.Footer{
+    background-color: #232322;
+    font-family: "Acme", cursive;
+    text-align: center;
+    padding: 10px 10px 10px;
+    
+}
+
+.Footer i{
+    color: white;
+}
+.Footer p{
+    color: white;
+}
