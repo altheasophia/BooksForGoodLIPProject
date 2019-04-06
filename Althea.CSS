@@ -52,8 +52,9 @@ header{
 .services{
     font-family: "Acme", cursive;
     text-align: center;
-   margin-top: 30px
-
+   margin-top: 0px;
+   background-color: #f4c842;
+   padding: 10px 10px;
   
 }
 
@@ -72,6 +73,40 @@ header{
 
 .results img{
     padding: 10px 10px;
+    
 }
 
+.results{ 
+    margin-top: 50px;
 }
+
+.team{
+    font-family: "Acme", cursive;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+    background-color: #f4c842;
+    border-radius: 5px;
+    
+}
+.team img{
+ 
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom:50px ;
+    
+}
+
+
+div.polaroid {
+    font-family: "Acme", cursive;
+  width: 80%;
+  background-color: white;
+  margin-bottom: 25px;
+  text-align: center;
+   padding: 10px 10px;
+   margin-top: 25px;
+}
+  
