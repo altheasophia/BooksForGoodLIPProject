@@ -5,8 +5,23 @@
 }
 .nav-link:hover {
     font-weight: bold; 
-    background-color: #ffb3b3;
+    background-color: #f4c842;
 }
+
+
+
+.nav-brand {
+    font-weight: lighter;
+    padding: 5px 5px;
+}
+.nav-brand:hover {
+    font-weight: bold; 
+    background-color: #f4c842;
+}
+
+
+
+
 
 header{ 
     height: 600px;
@@ -42,13 +57,14 @@ margin-bottom: 100px;
 
 
 .contact .btn{
-    Width: 100% ;
+    Width: 93% ;
     font-size: 15px;
     border-radius: 0;
 }
 
 .contact .input-group{
     margin-bottom: 25px; 
+    padding: 20px;
     
 }
 
@@ -66,4 +82,32 @@ margin-bottom: 100px;
 
 h1 {
    font-size: 125%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Footer{
+    background-color: #232322;
+    font-family: "Acme", cursive;
+    text-align: center;
+    margin-top: 100px;
+    padding: 10px 10px 10px;
+    
+}
+
+.Footer i{
+    color: white;
+}
+.Footer p{
+    color: white;
 }

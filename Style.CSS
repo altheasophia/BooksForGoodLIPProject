@@ -8,8 +8,22 @@
 }
 .nav-link:hover {
     font-weight: bold; 
-    background-color: #ffb3b3;
+    background-color: #f4c842;
 }
+
+
+
+.nav-brand {
+    font-weight: lighter;
+    padding: 5px 5px;
+}
+.nav-brand:hover {
+    font-weight: bold; 
+    background-color: #f4c842;
+}
+
+
+
 
 header{ 
     height: 600px;
@@ -24,8 +38,8 @@ header{
 .getinvolved{ 
     text-align: center;
     font-family: "Acme", cursive;
-   padding: 50px, 10px, 80px;
-   margin-top:50px;
+    padding: 50px, 15px, 80px;
+    margin-top:30px;
     width:100%;
     margin-bottom: 10px;
     background-color: #f4c842;
@@ -47,7 +61,7 @@ header{
     border: 1px solid #ccc;
     border-radius: 5px;
     margin-top: 30px
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .services{
